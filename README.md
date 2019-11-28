@@ -1,4 +1,4 @@
 # advanced-js
 
 
-# This repo contains files and important topics of Advanced-Javascript.
+# This repo contains files of all the  important topics of Advanced-Javascript.
